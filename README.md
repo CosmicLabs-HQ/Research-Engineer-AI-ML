@@ -31,12 +31,6 @@ You will:
 * Familiarity with system telemetry, infrastructure monitoring, or observability at scale
 * Experience leading or mentoring other engineers on a small technical team
 
-## Why Cosmic Labs
-
-Cosmic is a hardware intelligence platform used across critical compute infrastructure. We have access to a proprietary data layer that most organizations generate but nobody has built real prediction on top of. The data exists, the problem is unsolved, and the operators who depend on this infrastructure need predictions they can act on, not dashboards they have to interpret.
-
-If you have spent your career building prediction systems on noisy data and want to apply that skill to a domain where the stakes are physical and the problem is genuinely hard, we want to hear from you.
-
 ## How to Apply
 
 Email the following to `team@cosmiclabs.io`:
