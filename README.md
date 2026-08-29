@@ -1,4 +1,4 @@
-# Research-Engineer-AI-ML
+# Member of Technical Staff, AI/ML Research
 
 **Location:** In-person, San Francisco (Relocation Supported)
 **Type:** Full-time | Competitive Pay + Equity
